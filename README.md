@@ -91,20 +91,6 @@ It provides:
 
 Even though the current setup is simplified, the project already shows that sampling strategy can strongly affect PINN performance.
 
-## Connection with the ANEO Internship Direction
-
-This project is not the ANEO internship topic itself, but it is strongly related to the same technical direction.
-
-The connection is the following:
-
-- in both cases, the idea is to use AI models as surrogate approximations for expensive scientific computations,
-- in both cases, error and stability matter, not only speed,
-- in both cases, the goal is to better understand when learned approximations can help scientific workflows.
-
-This project can therefore be seen as a small prototype aligned with the broader ANEO direction:
-combining scientific computing, AI-based approximation, and evaluation of accuracy/stability trade-offs.
-
-
 ## Project Structure
 
 - `src/`: source code
